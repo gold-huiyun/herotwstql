@@ -1,0 +1,11 @@
+{
+    "name": "qlsyHeroku",
+    "description": "qls on heroku",
+    "keywords": ["qls"],
+    "env": {
+
+    },
+    "website": "https://github.com/gold-huiyun/herotwstql",
+    "repository": "https://github.com/gold-huiyun/herotwstql",
+    "stack": "container"
+}
